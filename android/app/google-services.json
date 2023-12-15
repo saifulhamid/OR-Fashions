@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837418749763",
+    "firebase_url": "https://shak-9f007-default-rtdb.firebaseio.com",
+    "project_id": "shak-9f007",
+    "storage_bucket": "shak-9f007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837418749763:android:3b7ce2eee8b9a111f1a9f6",
+        "android_client_info": {
+          "package_name": "com.droplet.shak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837418749763-vna4fuf46cjuhl57ekr8lj8tracockam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droplet.shak",
+            "certificate_hash": "7ea40d078f6039a56d04bc57fb715a57605d1309"
+          }
+        },
+        {
+          "client_id": "837418749763-o0s5cnsbipgfvifeqj50u4v0kti1qc1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_RZ53-C27xgbA1ngow_iBvG_1EanLnco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837418749763-o0s5cnsbipgfvifeqj50u4v0kti1qc1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
